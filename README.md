@@ -2,9 +2,9 @@
 --A travel system for the ServUO Ultima Online emulator
 <details>
 <summary>About</summary>
-This travel system functions much like the Public Moongate system that esists on public version of Ultima Online, but with a slightly different thematic vibe.
-Players can go to the NPCS (carriage drivers or ferry captains) throughout the world, select a destination, and travel!
-There are a number of default locations that can be easily changed in the CarriageDriver.cs or FerryCaptain.cs.
+This travel system functions much like the Public Moongate system that exists on public version of Ultima Online, but with a slightly different thematic vibe.<br>
+Players can go to the NPCS (carriage drivers or ferry captains) throughout the world, select a destination, and travel!<br>
+There are a number of default locations that can be easily changed in the CarriageDriver.cs or FerryCaptain.cs.<br>
 </details>
 <details>
 <summary>Directions</summary>
